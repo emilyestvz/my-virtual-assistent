@@ -1,5 +1,5 @@
 # My Virtual Assistent
-#### version web
+#### v. 1 (web)
 
 ```http
   coming soon
